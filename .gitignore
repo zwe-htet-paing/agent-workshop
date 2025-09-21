@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .envrc
-*.json
 .env
 docs/
+.langgraph_api
+__pycache__

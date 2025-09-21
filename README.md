@@ -1,1 +1,1 @@
-# rag-workshop
+# Agent Workshop
